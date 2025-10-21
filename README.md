@@ -55,7 +55,7 @@ Our system identifies whether a piece of news is **real or fake** using NLP-base
 
 | Visualization | Description |
 |----------------|-------------|
-| ![Model Comparison](images/model_comparison.png) | Accuracy comparison of all models |
+| ![Model Comparison](Photos/model_comparison.png) | Accuracy comparison of all models |
 
 
 ---
