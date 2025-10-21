@@ -47,6 +47,16 @@ Our system identifies whether a piece of news is **real or fake** using NLP-base
 | SVM | 0.95 | 0.95 | 0.95 |
 | LSTM | **0.96** | **0.96** | **0.96** |
 
+**LSTM achieved the best overall performance.**
+
+---
+
+## 📈 Visual Results
+
+| Visualization | Description |
+|----------------|-------------|
+| ![Model Comparison](images/model_comparison.png) | Accuracy comparison of all models |
+
 
 ---
 
@@ -71,7 +81,6 @@ Our system identifies whether a piece of news is **real or fake** using NLP-base
 - **Tools:** Jupyter Notebook, Google Colab  
 - **Dataset Source:** Kaggle  
 
-
 ---
 
 ## 🧾 License
@@ -85,7 +94,3 @@ This project is licensed under the **MIT License** — you are free to use and m
 - **Samsung Innovation Campus**  
 - **Kaggle** for dataset access  
 - Mentors and teammates for collaboration
-
----
-
-> 💬 “Combining linguistic analysis with ML/DL improves accuracy in fighting misinformation.”
